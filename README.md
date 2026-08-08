@@ -1,8 +1,6 @@
-Correct bro. README **Java + Servlet + Apache Tomcat + MySQL/JDBC project**-ah மட்டும் focus பண்ணலாம். AWS/cloud future plans ellam remove pannidalam.
 
-Copy-paste panna ready version:
 
-````markdown
+
 # Java Server Health Checker
 
 A Java Servlet-based web application developed using **Java, Jakarta Servlet, Apache Tomcat, JDBC, MySQL, HTML, and CSS**.
