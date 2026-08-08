@@ -112,23 +112,23 @@ Health History Page
 
 ### Home Page
 
-![Home Page](screenshots/01-home-page.png)
+![Home Page](screenshorts/01-home-page.png)
 
 ### Health Result
 
-![Health Result](screenshots/02-health-result.png)
+![Health Result](screenshorts/02-health-result.png)
 
 ### Health History
 
-![Health History](screenshots/03-health-history.png)
+![Health History](screenshorts/03-health-history.png)
 
 ### MySQL Records
 
-![MySQL Records](screenshots/04-mysql-table.png)
+![MySQL Records](screenshorts/04-mysql-table.png)
 
 ### Apache Tomcat Server
 
-![Apache Tomcat Server](screenshots/05-tomcat-server.png)
+![Apache Tomcat Server](screenshorts/05-tomcat-server.png)
 
 ---
 
